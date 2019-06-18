@@ -9,8 +9,8 @@ __Lenses__: Prime Lenses, Zoom Lenses, Crop Factor
 # Exposure  
   
 ## Definition  
-__Aperture__: Focal length / hole diameter, aka F number  
-__Shutter Speed__: Time that sensor is exposed to light (1/n seconds)  
+[__Aperture__](https://en.wikipedia.org/wiki/Aperture#In_photography): Focal length / hole diameter, aka F number  
+[__Shutter Speed__](https://en.wikipedia.org/wiki/Shutter_speed): Time that sensor is exposed to light (1/n seconds)  
 __ISO__: Amplification of signal  
 __Compensation__: Brightness of photo  
   
@@ -22,7 +22,7 @@ __Compensation__: photo gets brighter, +1
   
 ## Tips  
 __Aperture__: 3-5 for food/poster/landscape, widest for people  
-__Shutter Speed__: 1/300 for sports, 1/60 for night, auto (1/focal length) otherwise  
+__Shutter Speed__: 1/300 for sports, 1/60 for night, 4/focal length for image stabilisation, auto (1/focal length) otherwise  
 __ISO__: Auto, as low as possible  
 __Compensation__: high for ice/snow, very low for spotlight, 0 otherwise  
   
