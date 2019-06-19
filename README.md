@@ -43,7 +43,7 @@ __Touch__: Select what you want to focus on
 
 ## Flash  
 On camera flash is bad because it's close to the camera and harsh  
-Off camera/bounce flash and diffusers/reflectors are good, but require extra equipment and knowledge 
+Off camera/bounce flash and diffusers/reflectors are good, but require extra equipment and knowledge  
 __Tip__: Don't use on camera flash  
 
 ## Image Stabilisation  
