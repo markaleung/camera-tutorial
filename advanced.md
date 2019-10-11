@@ -3,7 +3,7 @@ This tutorial explains how to use the basic functions on a camera.
 It covers the following topics.  
 __Exposure__: Aperture, Shutter Speed, ISO, Compensation, Exposure Value  
 __Features__: Autofocus, Flash, Image Stabilisation, White Balance  
-__Questions__: Bigger Sensor, Blurred Background, Night Photos  
+__Questions__: Bigger Sensor, Blurred Background  
 __Lenses__: Prime Lenses, Zoom Lenses, Crop Factor  
   
 # Exposure  
