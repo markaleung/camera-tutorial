@@ -1,7 +1,8 @@
 # Aperture Tips  
-1.8 for people + blurry background (requires prime lens)  
-6-8 for food, landscapes (3-4 for M43, 4-5 for APS-C)  
-8-22 for people + sharp background (4-11 for M43, 5-15 for APS-C)  
+1.8 for people + blurry background  
+6-8 35mm, 4-5 APS-C, 3-4 M43 for food and small objects  
+8-14 35mm, 5-9 APS-C, 4-7 M43 for landscape  
+14-22 35mm, 9-15 APS-C, 7-11 M43 for people + sharp background  
   
 # Shutter Speed Tips  
 faster than 1/35mm focal length when handheld (camera default)  
@@ -11,7 +12,7 @@ faster than 1/60 for moving people
 faster than 1/200 for sports  
 slower than 1/10 for waterfalls  
 as slow as you like for still landscapes  
-Use shutter speed priority for night handheld, to prevent low shutter speed when camera runs out of ISO  
+Use shutter speed priority when handheld at night, to maintain shutter speed when camera runs out of ISO  
   
 # ISO Tips (How to make it lower)  
 Shoot in brighter environments (might require flash)  
