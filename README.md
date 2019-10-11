@@ -16,11 +16,11 @@ slower than 1/10 for waterfalls
 as slow as you like for still landscapes  
 Use shutter speed priority when handheld at night, to maintain shutter speed when camera runs out of ISO  
   
-## ISO Tips (How to reduce noise)  
+## ISO Tips (How to reduce noise from high ISO)  
 Shoot in brighter environments (might require flash)  
 Increase aperture width (might require wider aperture lenses)  
 Reduce shutter speed (might require image stabilisation or tripod)  
-Reduce noise at same ISO (might require bigger sensor)  
+Reduce noise at same ISO (might require bigger sensor or newer camera)  
   
 ## Exposure Compensation Tips  
 Increase for white background e.g. snow, ice skating  
