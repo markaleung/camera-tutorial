@@ -1,5 +1,9 @@
 # Camera Tips  
   
+## Aperture  
+Big hole, small number, more light, more blur  
+Small hole, big number, less light. less blur  
+  
 ## Aperture Tips  
 1.8 for people + blurry background  
 6-8 35mm, 4-5 APS-C, 3-4 M43 for food, landscape  
