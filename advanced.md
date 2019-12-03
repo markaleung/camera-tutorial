@@ -90,9 +90,9 @@ __Telephoto__: 70-300mm, sports, concerts
 __Supertelephoto__: 150-600mm, birding  
   
 ## Priority  
-First: Standard, Normal,   
-Second: Wide, Telephoto,   
-Specialised: Portrait, Macro, Fisheye, Supertelephoto,   
+__First__: Standard, Normal,   
+__Second__: Wide, Telephoto,   
+__Specialised__: Portrait, Macro, Fisheye, Supertelephoto,   
   
 ## Crop Factor  
 For small sensors, focal length must be scaled up  
