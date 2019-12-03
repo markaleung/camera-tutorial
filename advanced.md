@@ -64,7 +64,7 @@ More expensive
 ## Blurred Background/Shallow Depth of Field - How to Increase?  
 Wider aperture lens  
 Bigger sensor  
-Smaller subject  
+Closer subject  
 Longer focal length (technically [telephoto distortion](https://en.wikipedia.org/wiki/Perspective_distortion_(photography)))  
   
 # Lenses  
@@ -77,19 +77,25 @@ Lighter and smaller
 Cheaper  
   
 ## Types of Prime Lenses  
+__Fisheye__: 8mm/16mm, circular/full frame fisheye  
+__Wide__: 16mm/24mm, landscapes  
 __Normal__: 35mm/50mm, general use  
-__Portrait__: 85mm, portraits  
 __Macro__: focal length varies, very small objects  
+__Portrait__: 85mm, portraits  
   
 ## Types of Zoom Lenses  
 __Wide__: 15-35mm, landscapes  
 __Standard__: 24-70mm, general use  
 __Telephoto__: 70-300mm, sports, concerts  
-__Superzoom__: 28-300mm  
+__Supertelephoto__: 150-600mm, birding  
+  
+## Priority  
+First: Standard, Normal,   
+Second: Wide, Telephoto,   
+Specialised: Portrait, Macro, Fisheye, Supertelephoto,   
   
 ## Crop Factor  
 For small sensors, focal length must be scaled up  
 __Micro Four Thirds__: 2x e.g. 12-35mm -> 24-70mm  
 __Canon APS-C__: 1.6x e.g. 15-45mm -> 24-72mm  
 __Other APS-C__: 1.5x e.g. 16-50mm -> 24-75mm  
-  
