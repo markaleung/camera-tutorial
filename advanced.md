@@ -1,9 +1,9 @@
-# camera-tutorial  
+# Tutorial  
 This tutorial explains how to use the basic functions on a camera.  
 It covers the following topics.  
 __Exposure__: Aperture, Shutter Speed, ISO, Compensation, Exposure Value  
 __Features__: Autofocus, Flash, Image Stabilisation, White Balance  
-__Questions__: Bigger Sensor, Blurred Background  
+__Questions__: Bigger Sensor, Blurred Background, Prime Lenses  
 __Lenses__: Prime Lenses, Zoom Lenses, Crop Factor  
   
 # Exposure  
@@ -54,12 +54,12 @@ __Tip__: Use auto unless it looks bad
   
 # Questions  
   
-## Bigger Sensor - Tradeoffs  
-Shallower depth of field at same aperture  
-Less noise at same ISO  
-Higher maximum ISO  
-Heavier and bigger  
-More expensive  
+## Smaller Sensor - Tradeoffs  
+Lighter and smaller  
+Cheaper  
+Less background blur at same aperture  
+More noise at same ISO  
+Lower maximum ISO  
   
 ## Blurred Background/Shallow Depth of Field - How to Increase?  
 Wider aperture lens  
@@ -67,18 +67,18 @@ Bigger sensor
 Closer subject  
 Longer focal length (technically [telephoto distortion](https://en.wikipedia.org/wiki/Perspective_distortion_(photography)))  
   
-# Lenses  
-  
 ## Prime Lenses - Tradeoffs  
-No zoom  
-Bigger aperture (1.4-2.8 vs 2.8-5.6)  
-Better image quality  
 Lighter and smaller  
 Cheaper  
+Bigger aperture (1.4-2.8 vs 2.8-5.6)  
+Better image quality  
+No zoom  
+  
+# Lenses  
   
 ## Types of Prime Lenses  
 __Fisheye__: 8mm/16mm, circular/full frame fisheye  
-__Wide__: 16mm/24mm, landscapes  
+__Wide__: 16mm, landscapes  
 __Normal__: 35mm/50mm, general use  
 __Macro__: focal length varies, very small objects  
 __Portrait__: 85mm, portraits  
@@ -87,12 +87,12 @@ __Portrait__: 85mm, portraits
 __Wide__: 15-35mm, landscapes  
 __Standard__: 24-70mm, general use  
 __Telephoto__: 70-300mm, sports, concerts  
-__Supertelephoto__: 150-600mm, birding  
+__Supertelephoto__: 150-600mm, birdwatching  
   
 ## Priority  
 __First__: Standard, Normal,   
-__Second__: Wide, Telephoto,   
-__Specialised__: Portrait, Macro, Fisheye, Supertelephoto,   
+__Second__: Telephoto, Wide,   
+__Third__: Fisheye, Macro, Portrait, Supertelephoto,   
   
 ## Crop Factor  
 For small sensors, focal length must be scaled up  
