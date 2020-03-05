@@ -3,7 +3,7 @@ This tutorial explains how to use the basic functions on a camera.
 It covers the following topics.  
 __Exposure__: Aperture, Shutter Speed, ISO, Compensation, Exposure Value  
 __Features__: Autofocus, Flash, Image Stabilisation, White Balance  
-__Questions__: Bigger Sensor, Blurred Background, Prime Lenses  
+__Questions__: Smaller Sensor, Blurred Background, Prime Lenses  
 __Lenses__: Prime Lenses, Zoom Lenses, Crop Factor  
   
 # Exposure  
@@ -50,7 +50,8 @@ __Tip__: Reduce shutter speed for telephoto lenses always, wide lenses when subj
 ## White Balance  
 White balance must match [colour temperature](https://en.wikipedia.org/wiki/Color_temperature) of environment  
 __Blue to yellow__: Outdoor shade > cloud > sun/flash > fluorescent > light bulb  
-__Tip__: Use auto unless it looks bad  
+__Manual__: Calibrate white balance using a white/gray card  
+__Tip__: Use auto unless it is very different from manual  
   
 # Questions  
   
@@ -64,14 +65,13 @@ Lower maximum ISO
 ## Blurred Background/Shallow Depth of Field - How to Increase?  
 Wider aperture lens  
 Bigger sensor  
-Closer subject  
+Smaller subject  
 Longer focal length (technically [telephoto distortion](https://en.wikipedia.org/wiki/Perspective_distortion_(photography)))  
   
 ## Prime Lenses - Tradeoffs  
 Lighter and smaller  
 Cheaper  
 Bigger aperture (1.4-2.8 vs 2.8-5.6)  
-Better image quality  
 No zoom  
   
 # Lenses  
