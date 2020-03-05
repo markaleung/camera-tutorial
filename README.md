@@ -4,7 +4,7 @@
 P normally  
 A for blurrier background  
 S for extra fast or slow  
-Minimum ISO for stabilised when SS is faster than 4/35mm-focal-length  
+Minimum ISO (for stabilised when SS is faster than 4/35mm-focal-length)  
   
 ## Dark  
 S normally  
@@ -14,6 +14,7 @@ Auto ISO
 # Aperture  
   
 ## Definition  
+F number = focal length / aperture diameter  
 Smaller number = bigger hole, more light, more blur  
 Bigger number = smaller hole, less light. less blur  
   
@@ -41,11 +42,16 @@ As slow as you like for tripod
   
 ## ISO Tips (How to reduce noise from high ISO)  
 Shoot in brighter environments (flash)  
-Wider aperture (faster lenses)  
+Wider aperture (wider aperture lenses)  
 Slow shutter speed (image stabilisation or tripod)  
 Less noise at same ISO (bigger sensor or newer camera)  
   
 ## Exposure Compensation Tips  
 Increase for white background e.g. snow, ice skating  
 Decrease for black background e.g. spotlight  
+Use histogram to check  
   
+## Photo Editing  
+Exposure shifts entire graph  
+White/black move right/left closer to end  
+Highlight/shadow stretches right/left  
